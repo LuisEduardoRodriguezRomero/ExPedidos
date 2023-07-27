@@ -85,15 +85,5 @@ public class Conta {
 
 
 
-
-
-
-
-
-/*
-
-    @Override
-    public String toString() {
-        return "Aluno: " + getNome() + " " + "Idade: " + this.getIdade() + " " + "Turma: " + " "+ this.getTurma() + "\n" + this.getMateria() + "\n";
-    }*/
+    
 }
